@@ -20,15 +20,20 @@ This is a simple Flask web application for managing personal notes with user aut
 
 **Clone the repository:**
 - git clone https://github.com/Gergyg/flask-notes-app.git
+
 **Navigate to the project directory:**
 - cd flask-notes-app
+
 **Create and activate a virtual environment:**
 - python -m venv venv
 - source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
 **Install dependencies:**
 - pip install -r requirements.txt
+
 **Run the application:**
 -python app.py
+
 
 The app will be accessible at http://127.0.0.1:5000/ in your browser.
 
